@@ -1,12 +1,6 @@
-# manifold_learning
+# Manifold learning
  Neural Networks project Neural Networks (LTAT.02.001): https://courses.cs.ut.ee/2020/nn/spring/Main/HomePage)
+ Our blogpost: https://medium.com/@kristinjesse/manifold-learning-in-neural-networks-964d682df90d
 
-Make folder INSIDE the IntrinsicDimDeep (https://github.com/ansuini/IntrinsicDimDeep).
-
-# Progress
-- 3.05 - reproduced figure 2.A
-- 6.05 - meeting to discuss next steps.
-
-# Need to do
-- Reproduce the result with different intrinsic dimensionality algorithm (https://github.com/dgranata/Intrinsic-Dimension)
-- Characterise the topology (persistent homology) and a bit of the geometry (diffusion maps) of the manifold.
+# Guide
+ In folder _pics_ kkkk..
